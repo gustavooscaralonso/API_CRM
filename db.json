@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "Gustavo Oscar Alonso",
+      "empresa": "Particular",
+      "email": "gustavoa.rctic@gmail.com",
+      "telefono": "",
+      "notas": "",
+      "id": 1
+    }
+  ]
+}
